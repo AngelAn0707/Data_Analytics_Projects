@@ -1,0 +1,4 @@
+git add путь/https://public.tableau.com/app/profile/hanna.samoilenko/viz/Homework_2_17441250096150/Dashboard1?publish=yes
+git commit -m "Добавлены файлы Tableau"
+git push origin main
+

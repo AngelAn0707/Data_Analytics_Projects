@@ -26,7 +26,7 @@ This repository contains a collection of data analytics projects that demonstrat
 
 5. [Python](https://github.com/AngelAn0707/Data_Analytics_Projects/tree/main/Python)  
    Conducting A/B tests and analyzing results using statistical methods and Python.
-
+6. [Tracking_Plan_Development](https://github.com/AngelAn0707/Data_Analytics_Projects/tree/main/Tracking_Plan_Development) 
 ---
 
 ## Tools & Technologies

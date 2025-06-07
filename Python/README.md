@@ -58,10 +58,4 @@
 * **Matplotlib/Seaborn:** Библиотеки для визуализации данных.
 * **facebook_ads_data.csv:** Исходный файл данных.
 
-![Ежедневные затраты на рекламу и ROMI (2021)](images/daily_spend_romi_2021.png)
-![Общие затраты на рекламу и ROMI по кампаниям](images/campaign_spend_romi.png)
-![Box plot ежедневного ROMI по кампаниям](images/daily_romi_boxplot.png)
-![Гистограмма распределения ROMI](images/romi_histogram.png)
-![Тепловая карта корреляции](images/correlation_heatmap.png)
-![Точечная диаграмма Total Spend vs Total Value](images/spend_value_scatterplot.png)
-(Обязательно создайте папку images внутри папки Python_Facebook_Ads_Analysis и сохраните туда все эти скриншоты с соответствующими именами.)
+

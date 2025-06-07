@@ -1,5 +1,9 @@
-https://public.tableau.com/app/profile/hanna.samoilenko/viz/Project_2_GoIT/Dashboard1?publish=yes
-Назва: Revenue Metrics Dashboard
+## Revenue Metrics Dashboard
+
+[![Dashboard Preview](Project%20Revenue%20metrics/dashboard_preview.png)](https://public.tableau.com/app/profile/hanna.samoilenko/viz/Project_2_GoIT/Dashboard1?publish=yes)
+
+Аналіз ключових метрик доходу SaaS-продукту за допомогою SQL та Tableau.
+
 Ідея: Візуалізувати ключові метрики доходу SaaS-продукту для аналітики продуктового здоров’я
 Мета: Допомогти продукт-менеджерам відслідковувати фінансові показники, виявляти проблеми та ухвалювати рішення на основі даних
 Термін виконання: 1 тиждень

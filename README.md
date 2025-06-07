@@ -12,7 +12,7 @@ This repository contains a collection of data analytics projects that demonstrat
 
 ## Projects
 
-1. 1. [Revenue Metrics Project (SQL + Tableau)](https://github.com/AngelAn0707/Data_Analytics_Projects/tree/main/Project%20Revenue%20metrics)
+1. [Revenue Metrics Project (SQL + Tableau)](https://github.com/AngelAn0707/Data_Analytics_Projects/tree/main/Project%20Revenue%20metrics)
    Analysis and visualization of key revenue metrics using SQL for data preparation and Tableau for building interactive dashboards.
 
 2. [SQL and Looker Studio](#)  

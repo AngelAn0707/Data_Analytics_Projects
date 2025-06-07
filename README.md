@@ -22,7 +22,7 @@ This repository contains a collection of data analytics projects that demonstrat
    Projects focused on building dashboards in Tableau with an emphasis on design, interface, and interactivity.
 
 4. [Amplitude](https://github.com/AngelAn0707/Data_Analytics_Projects/tree/main/Amplitude)
-   Visualizing business and marketing metrics using Power BI, including filtering, drilldowns, and custom visuals.
+   Analysis of user onboarding and engagement in a streaming media product. Includes cohort creation, funnel analysis, and retention visualizations in Amplitude Analytics.
 
 5. [A/B Testing Project](#)  
    Conducting A/B tests and analyzing results using statistical methods and Python.

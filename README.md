@@ -18,7 +18,7 @@ This repository contains a collection of data analytics projects that demonstrat
 2. [SQL and Looker Studio](https://github.com/AngelAn0707/Data_Analytics_Projects/tree/main/SQL%20and%20Looker%20Studio)  
    Preparing SQL queries using PostgreSQL and BigQuery. Creating interactive dashboards in Looker Studio.
 
-3. [Tableau Dashboards](#)  
+3. [Tableau Dashboards](https://github.com/AngelAn0707/Data_Analytics_Projects/tree/main/Tableau%20Dashboards)
    Projects focused on building dashboards in Tableau with an emphasis on design, interface, and interactivity.
 
 4. [Power BI Visualizations](#)  

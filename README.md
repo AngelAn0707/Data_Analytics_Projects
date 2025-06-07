@@ -21,7 +21,7 @@ This repository contains a collection of data analytics projects that demonstrat
 3. [Tableau Dashboards](https://github.com/AngelAn0707/Data_Analytics_Projects/tree/main/Tableau%20Dashboards)
    Projects focused on building dashboards in Tableau with an emphasis on design, interface, and interactivity.
 
-4. [Power BI Visualizations](#)  
+4. [Amplitude](https://github.com/AngelAn0707/Data_Analytics_Projects/tree/main/Amplitude)](https://github.com/AngelAn0707/Data_Analytics_Projects/tree/main/Amplitude)  
    Visualizing business and marketing metrics using Power BI, including filtering, drilldowns, and custom visuals.
 
 5. [A/B Testing Project](#)  

@@ -24,7 +24,7 @@ This repository contains a collection of data analytics projects that demonstrat
 4. [Amplitude](https://github.com/AngelAn0707/Data_Analytics_Projects/tree/main/Amplitude)
    Analysis of user onboarding and engagement in a streaming media product. Includes cohort creation, funnel analysis, and retention visualizations in Amplitude Analytics.
 
-5. [Python]((https://github.com/AngelAn0707/Data_Analytics_Projects/tree/main/Python)  
+5. [Python](https://github.com/AngelAn0707/Data_Analytics_Projects/tree/main/Python)  
    Conducting A/B tests and analyzing results using statistical methods and Python.
 
 ---

@@ -3,9 +3,7 @@ Project Description:
 Brief project introduction.
 This project involved developing an interactive dashboard in Google Looker Studio (formerly Google Data Studio) to analyze key marketing campaign performance metrics. The dashboard's goal is to provide a clear overview of advertising spend (Ad Spend), return on marketing investment (ROMI), and other important indicators to help in making informed decisions for campaign optimization.
 
-Project Tasks (what you did):
-
-Tasks:
+* Tasks:
 Database Connection: Connected to a PostgreSQL database using "Custom Query" to retrieve raw data.
 Calculated Fields Creation: Created calculated fields for: Total Ad Spend, CPC (Cost Per Click), CPM (Cost Per Mille), CTR (Click-Through Rate), ROMI (Return On Marketing Investment).
 Key Visualization Building: Built three key visualizations:
@@ -15,7 +13,7 @@ Table: Campaign details with Ad Spend, CPC, CPM, CTR, ROMI, and heatmaps.
 Interactive Filters Addition: Added interactive filters by campaign name and ad display date.
 Tools and Technologies Used:
 
-Used Tools:
+* Used Tools:
 Google Looker Studio: For dashboard creation and data visualization.
 PostgreSQL: Data source.
 SQL: For executing custom queries and data preparation.

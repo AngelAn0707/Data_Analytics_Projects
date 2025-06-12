@@ -1,10 +1,10 @@
 ## Revenue Metrics Dashboard
 
 
-Analysis of key SaaS product revenue metrics using SQL and Tableau.**
+* Analysis of key SaaS product revenue metrics using SQL and Tableau.**
 
-Idea: Visualize key revenue metrics for a SaaS product to analyze product health.
-Goal: Help product managers track financial indicators, identify issues, and make data-driven decisions.
+* Idea: Visualize key revenue metrics for a SaaS product to analyze product health.
+* Goal: Help product managers track financial indicators, identify issues, and make data-driven decisions.
 Timeline:** 1 week
 Technologies:  SQL (BigQuery), Tableau Public
 Functionality:

@@ -1,4 +1,4 @@
-##Project: User Onboarding and Engagement Analysis in Amplitude
+     Project: User Onboarding and Engagement Analysis in Amplitude
 Project Description:
 
 Brief project introduction.

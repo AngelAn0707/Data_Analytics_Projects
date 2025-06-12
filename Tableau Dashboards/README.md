@@ -1,4 +1,4 @@
-** Project: Mobile Game User Activity Analysis in Tableau Public
+**- Project: Mobile Game User Activity Analysis in Tableau Public
 * Project Description:
 
 * Brief project introduction.

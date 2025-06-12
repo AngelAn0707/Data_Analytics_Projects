@@ -7,27 +7,28 @@ This project involved analyzing user onboarding and engagement in a Media Stream
 Project Tasks (what you did):
 
 Tasks:
-Creation of a Specific User Cohort: Cohort Parameters:
-Country: USA
-Platform: iOS and Android
-Condition: Users who first performed the "Welcome" action during June 2023 (using "historical count" for the first execution).
-Building Visualizations Based on the Cohort:
-Onboarding Funnel:
-Sequence: Welcome -> User Sign Up -> Main Landing Screen -> Search Song or Video -> Play Song or Video.
-Breakdown: By platform (iOS, Android).
-Daily Onboarding Funnel Conversion:
-Visualization of onboarding funnel conversion broken down by day and platform.
-Daily Onboarding Completion Time:
-Chart showing the average time it takes users to complete onboarding, broken down by day and platform.
-Dynamics of Users Performing "Play Song or Video" and "Any Active Event":
-Daily chart of the number of users performing these two event types.
-Average Number of Events Per User (Daily):
-Chart of average daily activity: "Any active event" and "Play Song or Video".
-User Retention Chart:
-User Retention from "Welcome" event to "Any Active Event" and "Play Song or Video".
-Visualization: Bar chart.
-Dashboard Creation: Combined the cohort and all created charts into a single dashboard.
-Visualizations: 
+1.Creation of a Specific User Cohort: Cohort Parameters:
+*Country: USA
+*Platform: iOS and Android
+*Condition: Users who first performed the "Welcome" action during June 2023 (using "historical count" for the first execution).
+2.Building Visualizations Based on the Cohort:
+*Onboarding Funnel:
+*Sequence: Welcome -> User Sign Up -> Main Landing Screen -> Search Song or Video -> Play Song or Video.
+*Breakdown: By platform (iOS, Android).
+*Daily Onboarding Funnel Conversion:
+*Visualization of onboarding funnel conversion broken down by day and platform.
+*Daily Onboarding Completion Time:
+*Chart showing the average time it takes users to complete onboarding, broken down by day and platform.
+*Dynamics of Users Performing "Play Song or Video" and "Any Active Event":
+*Daily chart of the number of users performing these two event types.
+*Average Number of Events Per User (Daily):
+*Chart of average daily activity: "Any active event" and "Play Song or Video".
+*User Retention Chart:
+*User Retention from "Welcome" event to "Any Active Event" and "Play Song or Video".
+*Visualization: Bar chart.
+3.Dashboard Creation: Combined the cohort and all created charts into a single dashboard.
+
+**Visualizations: 
 onboarding retention chart
 ![image](https://github.com/user-attachments/assets/f63abeba-74c4-4326-8b01-db23813c15ff)
 

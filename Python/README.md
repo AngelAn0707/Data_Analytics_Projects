@@ -1,61 +1,102 @@
-## Проект: Анализ эффективности рекламных кампаний Facebook с помощью Pandas и Python
+Project: Analyzing Facebook Ad Campaigns with Pandas and Python
 
-Описание проекта:
-
-Краткое введение в проект.
-В рамках данного проекта проведен анализ данных рекламных кампаний Facebook с использованием библиотеки Pandas в Python и средств визуализации. Цель проекта — исследовать динамику затрат на рекламу, ROMI, поведение отдельных кампаний и взаимосвязи между ключевыми метриками.
-Задачи проекта (что вы сделали):
+Project Description:
+Brief project introduction.
+This project involved analyzing Facebook advertising campaign data using the Pandas library in Python and visualization tools. The project's goal was to investigate the dynamics of advertising costs, ROMI, the behavior of individual campaigns, and the relationships between key metrics.
 
 ### Задачи:
-1. **Загрузка данных:**
-Загрузка файлаfacebook_ads_data.csvв DataFrame Pandas.
+1. Data Loading:
+Loaded the facebook_ads_data.csv file into a Pandas DataFrame.
 ![image](https://github.com/user-attachments/assets/d5e61fb5-c7d7-4f6b-9419-af87ee265243)
 
-3. **Анализ данных по дням (2021 год):**
-Группировка данных по дням.
-**График ежедневной суммы затрат на рекламу:** Визуализацияtotal_spendза 2021 год.
+3. Daily Data Analysis (2021):
+Grouped data by day.
+Daily Ad Spend Chart: Visualized total_spend for 2021.
 ![image](https://github.com/user-attachments/assets/4d22dba7-0817-498f-a9f6-47a02100864f)
 
-**График ежедневного ROMI:** ВизуализацияROMIза 2021 год.
+Daily ROMI Chart: Visualized ROMI for 2021.
 ![image](https://github.com/user-attachments/assets/157987f0-86ad-49f2-a8b2-4fbe12e9ea1e)
 
-**Бонусное задание:** Применение метода.rolling()для отображения скользящего среднего затрат и ROMI.
+Bonus Task: Applied the .rolling() method to display the moving average of spend and ROMI.
 ![image](https://github.com/user-attachments/assets/9a1553f7-8249-40d0-901b-efeb600f9d28)
 
+4. Analysis by Campaign Name:
+Grouped data by campaign name (campaign_name).
 
-5. **Анализ данных по названию кампании:**
-Группировка данных по названию кампании (campaign_name).
-**График общей суммы затрат на рекламу:** Визуализацияtotal_spendдля каждой кампании.
+Total Ad Spend Chart: Visualized total_spend for each campaign.
 ![image](https://github.com/user-attachments/assets/ac7bc6f8-ffb2-49c5-8fde-acf602f06353)
 
-**График общего ROMI:** ВизуализацияROMIдля каждой кампании.
+Total ROMI Chart: Visualized ROMI for each campaign.
 ![image](https://github.com/user-attachments/assets/6b68417a-2267-4982-90e4-497af06dc24e)
 
-7. **Box Plot для ROMI:**
-Построение Box Plot для анализа разброса ежедневногоROMIпо каждой кампании, что позволяет выявить аномалии или особенности распределения.
+5. Box Plot for ROMI:
+Created a Box Plot to analyze the spread of daily ROMI for each campaign, allowing for the identification of anomalies or distribution characteristics.
 ![image](https://github.com/user-attachments/assets/5a9f0adb-421a-4b6d-8e9e-efeee2226be1)
 
-9. **Гистограмма распределения ROMI:**
-Построение гистограммы, показывающей распределение значенийROMIпо всему датасету.
+6. ROMI Distribution Histogram:
+Constructed a histogram showing the distribution of ROMI values across the entire dataset.
 ![image](https://github.com/user-attachments/assets/88a37266-c2e3-4518-a95c-670927a42408)
 
-11. **Тепловая карта корреляции:**
-Построение тепловой карты корреляции между всеми числовыми показателями вfacebook_ads_data.csv.
-Идентифицированы показатели с **наивысшей** и **наинизшей** корреляцией.
-Определено, с чем наиболее сильно коррелируетtotal_value.
+7. Correlation Heatmap:
+Created a correlation heatmap between all numerical metrics in facebook_ads_data.csv.
+Identified metrics with the highest and lowest correlation.
+Determined what total_value correlates most strongly with.
 ![image](https://github.com/user-attachments/assets/0996eb97-1b8c-4694-a0be-097a47e20237)
 
-13. **Точечная диаграмма с линейной регрессией:**
-Построение точечной диаграммы с наложенной линией линейной регрессии (lmplot()) для визуализации взаимосвязи междуtotal_spendиtotal_value.
+18. Scatter Plot with Linear Regression:
+Created a scatter plot with an overlaid linear regression line (lmplot()) to visualize the relationship between total_spend and total_value.
 ![image](https://github.com/user-attachments/assets/c07350ea-ae08-4619-8d5a-661ee3ee7711)
 
-Используемые инструменты и библиотеки:
+Sure, here is the translation of the provided text into English:
 
-### Используемые инструменты:
-* **Python:** Язык программирования.
-* **Jupyter Notebook:** Среда разработки для интерактивного анализа.
-* **Pandas:** Библиотека для обработки и анализа данных.
-* **Matplotlib/Seaborn:** Библиотеки для визуализации данных.
-* **facebook_ads_data.csv:** Исходный файл данных.
+Project: Analyzing Facebook Ad Campaigns with Pandas and Python
+Project Description:
+
+Brief project introduction.
+This project involved analyzing Facebook advertising campaign data using the Pandas library in Python and visualization tools. The project's goal was to investigate the dynamics of advertising costs, ROMI, the behavior of individual campaigns, and the relationships between key metrics.
+
+Project Tasks (what you did):
+
+Tasks:
+Data Loading:
+Loaded the facebook_ads_data.csv file into a Pandas DataFrame.
+
+Daily Data Analysis (2021):
+Grouped data by day.
+Daily Ad Spend Chart: Visualized total_spend for 2021.
+
+Daily ROMI Chart: Visualized ROMI for 2021.
+
+Bonus Task: Applied the .rolling() method to display the moving average of spend and ROMI.
+
+Analysis by Campaign Name:
+Grouped data by campaign name (campaign_name).
+Total Ad Spend Chart: Visualized total_spend for each campaign.
+
+Total ROMI Chart: Visualized ROMI for each campaign.
+
+Box Plot for ROMI:
+Created a Box Plot to analyze the spread of daily ROMI for each campaign, allowing for the identification of anomalies or distribution characteristics.
+
+ROMI Distribution Histogram:
+Constructed a histogram showing the distribution of ROMI values across the entire dataset.
+
+Correlation Heatmap:
+Created a correlation heatmap between all numerical metrics in facebook_ads_data.csv.
+Identified metrics with the highest and lowest correlation.
+Determined what total_value correlates most strongly with.
+![image](https://box-plot-for-romi]
+
+Scatter Plot with Linear Regression:
+Created a scatter plot with an overlaid linear regression line (lmplot()) to visualize the relationship between total_spend and total_value.
+
+Tools and Libraries Used:
+
+Used Tools:
+Python: Programming language.
+Jupyter Notebook: Development environment for interactive analysis.
+Pandas: Library for data manipulation and analysis.
+Matplotlib/Seaborn: Libraries for data visualization.
+facebook_ads_data.csv: Source data file.
 
 

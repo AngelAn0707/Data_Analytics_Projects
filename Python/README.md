@@ -4,7 +4,7 @@ Project Description:
 Brief project introduction.
 This project involved analyzing Facebook advertising campaign data using the Pandas library in Python and visualization tools. The project's goal was to investigate the dynamics of advertising costs, ROMI, the behavior of individual campaigns, and the relationships between key metrics.
 
-### Задачи:
+Tasks
 1. Data Loading:
 Loaded the facebook_ads_data.csv file into a Pandas DataFrame.
 ![image](https://github.com/user-attachments/assets/d5e61fb5-c7d7-4f6b-9419-af87ee265243)

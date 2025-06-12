@@ -1,35 +1,33 @@
-Название проекта:
-## Проект: Анализ онбординга и вовлеченности пользователей в Amplitude
+##Project: User Onboarding and Engagement Analysis in Amplitude
+Project Description:
 
-Краткое введение в проект.
-В рамках данного проекта был проведен анализ пользовательского онбординга и вовлеченности в продукте Media Streaming с использованием Amplitude Analytics. Проект фокусируется на создании специфической когорты пользователей и построении ряда визуализаций для понимания поведения пользователей на ключевых этапах их пути.
-Задачи проекта (что вы сделали):
+Brief project introduction.
+This project involved analyzing user onboarding and engagement in a Media Streaming product using Amplitude Analytics. The project focuses on creating a specific user cohort and building a series of visualizations to understand user behavior at key stages of their journey.
 
-### Задачи:
-1. **Создание специфической когорты пользователей:**
-Параметры когорты:
-**Страна:** США
-**Платформа:** iOS и Android
-**Условие:** Пользователи, которые **впервые** выполнили действие "Welcome" в течение июня 2023 года (использован "historical count" для первого выполнения).
-2. **Построение визуализаций на основе когорты:**
-**Воронка онбординга:**
-Последовательность:Welcome -> User Sign Up -> Main Landing Screen -> Search Song or Video -> Play Song or Video.
-Разбивка: По платформе (iOS, Android).
-**Поденная конверсия воронки онбординга:**
-Визуализация конверсии воронки онбординга с разбивкой по дням и платформе.
-**Поденное время прохождения онбординга:**
-График, отображающий среднее время, за которое пользователи проходят онбординг, с разбивкой по дням и платформе.
-**Динамика пользователей, выполняющих "Play Song or Video" и "любой активный ивент":**
-Поденный график количества пользователей, выполняющих эти два типа событий.
-**Среднее количество ивентов на пользователя (поденно):**
-График средней ежедневной активности: "любой активный ивент" и "Play Song or Video".
-**График Retention пользователей:**
-Пользовательский Retention из ивента "Welcome" в "любой активный ивент" и "Play Song or Video".
-Визуализация: Стовпчатая диаграмма.
-3. **Создание дашборда:**
-Объединение когорты и всех созданных графиков в единый дашборд.
+Project Tasks (what you did):
 
-### Визуализации:
+Tasks:
+Creation of a Specific User Cohort: Cohort Parameters:
+Country: USA
+Platform: iOS and Android
+Condition: Users who first performed the "Welcome" action during June 2023 (using "historical count" for the first execution).
+Building Visualizations Based on the Cohort:
+Onboarding Funnel:
+Sequence: Welcome -> User Sign Up -> Main Landing Screen -> Search Song or Video -> Play Song or Video.
+Breakdown: By platform (iOS, Android).
+Daily Onboarding Funnel Conversion:
+Visualization of onboarding funnel conversion broken down by day and platform.
+Daily Onboarding Completion Time:
+Chart showing the average time it takes users to complete onboarding, broken down by day and platform.
+Dynamics of Users Performing "Play Song or Video" and "Any Active Event":
+Daily chart of the number of users performing these two event types.
+Average Number of Events Per User (Daily):
+Chart of average daily activity: "Any active event" and "Play Song or Video".
+User Retention Chart:
+User Retention from "Welcome" event to "Any Active Event" and "Play Song or Video".
+Visualization: Bar chart.
+Dashboard Creation: Combined the cohort and all created charts into a single dashboard.
+Visualizations: 
 onboarding retention chart
 ![image](https://github.com/user-attachments/assets/f63abeba-74c4-4326-8b01-db23813c15ff)
 
@@ -45,8 +43,8 @@ play_other_activ user count
 average event number
 ![image](https://github.com/user-attachments/assets/61f92be5-cbfd-4e69-b99e-28d54ebb4cec)
 
-График Retention
+Schedule Retention
 ![image](https://github.com/user-attachments/assets/13d8754e-7e80-4903-9058-bbaff175a0b5)
 
-Journey Map пользователя
+Journey Map user
 ![image](https://github.com/user-attachments/assets/f5aa7ddd-c89c-4b91-8a84-bc77d38f3399)

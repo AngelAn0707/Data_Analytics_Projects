@@ -1,4 +1,4 @@
-* Project: Mobile Game User Activity Analysis in Tableau Public
+** Project: Mobile Game User Activity Analysis in Tableau Public
 * Project Description:
 
 * Brief project introduction.
@@ -26,7 +26,7 @@ Microsoft Excel/CSV: Source data file for user activity.
   ![image](https://github.com/user-attachments/assets/e6748e22-779d-45a2-9573-65c53d48244a)
 
   
-* Project: Superstore Sales Analysis in Tableau Public
+** Project: Superstore Sales Analysis in Tableau Public
 * Project Description
 This project involved analyzing Superstore sales data in Tableau Public. The project focused on studying the efficiency of delivery and order distribution across various parameters, such as shipping mode, delivery time in days, and geographical location (US states).
 
@@ -50,7 +50,7 @@ Superstore Sales: Standard demonstration dataset in Tableau.
 ![image](https://github.com/user-attachments/assets/46f49704-4a32-4934-8927-c2231f8f393a)
 
 
-* Project: Product Company Revenue Analysis in Tableau Public
+** Project: Product Company Revenue Analysis in Tableau Public
 * Project Description:
 In this project, an interactive dashboard was developed in Tableau Public for analyzing the revenue of a product company. The project expands on a previous dashboard (from Homework Assignment 2) and focuses on calculating and visualizing new metrics such as New MRR (revenue from new users), change in total revenue, and cohort analysis.
 
@@ -72,7 +72,7 @@ Product Company Revenue Data: (The original text had an incomplete phrase here; 
 
  ![image](https://github.com/user-attachments/assets/00e3175c-8f4f-4d81-9cce-6471068b5a3d)
   
-* Project: User Conversion Funnel Analysis in Tableau Public
+** Project: User Conversion Funnel Analysis in Tableau Public
 * Project Description
 This project involved developing an interactive dashboard in Tableau Public to analyze the user journey from registration to first payment. The project focuses on visualizing key conversion funnel stages, calculating conversion rates, and displaying the dynamics of user transitions between steps. Special attention was paid to advanced Tableau features, such as creating new chart types, using tooltips to display metrics, and implementing interactivity with Actions and Parameters.
 
@@ -106,7 +106,7 @@ Days to Step: DATEDIFF('day', [Registration Date], [Selected Step Date]) (logic 
  ![image](https://github.com/user-attachments/assets/1ed93b1a-be24-475b-a219-2b0b0a32d07f)
 
 
-* Project: Product Company Revenue Analysis in Tableau Public
+** Project: Product Company Revenue Analysis in Tableau Public
 * Project Description
 Performed: Revenue analysis, LOD (Level of Detail expressions), Table Calculations, MRR (Monthly Recurring Revenue), cohorts.
 
